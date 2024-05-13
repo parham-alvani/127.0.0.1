@@ -1,2 +1,5 @@
-# 127.0.0.1
-There is no place like home, I am married now and everything is brighter than ever
+# There is no place like 127.0.0.1
+
+## Introduction
+
+Everything started on 23 Feb 2018 and then we got married on 09 may 2024.
