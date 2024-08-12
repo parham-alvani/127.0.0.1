@@ -8,5 +8,7 @@ Everything started via Skype, and we were talking there for the first time.
 ## Remember
 
 - 18 Mar 2020 <35.801773, 51.458567>
-- 18 Nov 2022 15:30:00
-- 31 Mar 2023 19:00:00
+- 18 Nov 2022 Proposal
+- 31 Mar 2023
+- Thursday, May 9, 2024 Engagement
+- Sunday, June 16, 2024 Wedding
